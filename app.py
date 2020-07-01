@@ -10,7 +10,7 @@ def index():
 def about():
     return render_template('about.html')
 
-@app.route('/graph')
+@app.route('/index')
 def graph(SYMBOL):
     API_KEY = '7ENJ7TOOUOLNE7W4'
     #Welcome to Alpha Vantage! Here is your API key: 7ENJ7TOOUOLNE7W4. Please record this API key for future access to Alpha Vantage.

@@ -1,4 +1,6 @@
 gunicorn==19.9.0
 requests==2.20.0
 flask==1.1.1
-yfinance==0.1.54
+pandas==1.0.5
+io
+import simplejson==3.17.0

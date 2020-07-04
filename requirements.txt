@@ -3,4 +3,4 @@ requests==2.20.0
 flask==1.1.1
 pandas==1.0.5
 io
-import simplejson==3.17.0
+simplejson==3.17.0
